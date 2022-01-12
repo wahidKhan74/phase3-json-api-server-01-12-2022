@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "title": "Advance to React js",
+      "body": "This post provides an advance to react",
+      "author": "Sam",
+      "category": "react",
+      "id": 1
+    },
+    {
+      "title": "Advance to JSX",
+      "body": "This post provides an advance to jsx features",
+      "author": "Marry Smith",
+      "category": "jsx",
+      "id": 2
+    },
+    {
+      "title": "Introduction to React js",
+      "body": "This post provides an introduction to react",
+      "author": "Sam",
+      "category": "react",
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "code": "react",
+      "name": "React"
+    },
+    {
+      "code": "redux",
+      "name": "Redux"
+    },
+    {
+      "code": "angular",
+      "name": "Angular"
+    },
+    {
+      "code": "jsx",
+      "name": "JSX"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "mike@123",
+      "password": "mike@123",
+      "email": "mike@gmail.com",
+      "status": false
+    },
+    {
+      "id": 2,
+      "username": "john@123",
+      "password": "john@123",
+      "email": "john@gmail.com",
+      "status": true
+    },
+    {
+      "id": 3,
+      "username": "david@123",
+      "password": "david@123",
+      "email": "david@gmail.com",
+      "status": true
+    },
+    {
+      "id": 4,
+      "username": "marry@123",
+      "password": "marry@123",
+      "email": "marry@gmail.com",
+      "status": false
+    }
+  ],
+  "products": []
+}
